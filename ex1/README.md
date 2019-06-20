@@ -1,4 +1,4 @@
-# Exercise 2 - Linear Regression
+# Exercise 1 - Linear Regression
 - getting reaccustomed to *Octave*;
 - trying to vectorise the code as much as possible.
 
