@@ -12,5 +12,5 @@ function [J, grad] = costFunctionReg(theta, X, y, lambda)
 
   % Regularise J and gradient by using the parameter lambda
   J += lambda * sum(theta(2:n).^2) / (2*m);
-  grad(2 : n) += lambda * theta(2:n) / m;
+  grad(2:n) += lambda * theta(2:n) / m;
 end

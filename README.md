@@ -8,3 +8,7 @@ Univariate and multivariate **Linear Regression** using *Gradient Descent*
 
 ## Exercise 2 - Week 3
 **Logistic Regression** - the basic and the regularised variants
+
+## Exercise 3 - Week 4
+Still **Logistic Regression**, but regularised and also *feedforward propagation
+for **Neural Networks**
