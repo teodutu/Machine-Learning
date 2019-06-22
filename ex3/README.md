@@ -12,7 +12,7 @@ were for the last exercise;
 - in order to achieve this in an optimised fashion, the *Octave* function `fmincg` is used;
 - the prediction itself selects the class with the highest probability for each input.
 
-## Neural Network: Feedforward propagation
+## Neural Network: Forward propagation
 - we calculate each *activation* (`a2` and `a3`), also taking care t add a line of *ones*
 as the first line of `a2`;
 - then, the exact predictions are extracted from `a3` in exactly the same manner as in
