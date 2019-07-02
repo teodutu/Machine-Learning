@@ -15,3 +15,10 @@ for **Neural Networks**
 
 ## Exercise 4 - Week 5
 Both *forward propagation* and *backpropagation* for the same **Neural Netowrk** as before
+
+## Exercise 5 - Week 6
+Analysis and visualisation of the **Bias - Variance** dilemma in *Machine Learning*
+
+## Exercise 6 - Week 7
+**SVM** with both *linear* and *gaussian* kernels in order to fit complex decision boundaries with
+as good a *margin* as possible

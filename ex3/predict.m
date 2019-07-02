@@ -9,7 +9,7 @@ function p = predict(Theta1, Theta2, X)
   % Add ones to the X data matrix
   X = [ones(m, 1) X];
 
-  % Calculate z2
+  % Calculate a2
   a2 = [ones(1, m); sigmoid(Theta1 * X')];
 
   % Calculate all prediction probabilities
