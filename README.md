@@ -22,3 +22,11 @@ Analysis and visualisation of the **Bias - Variance** dilemma in *Machine Learni
 ## Exercise 6 - Week 7
 **SVM** with both *linear* and *gaussian* kernels in order to fit complex decision boundaries with
 as good a *margin* as possible
+
+## Exercise 7 - Week 8
+**Unsipervised Learning** (*K-Means*) and **PCA**; *K-Means* is used both to cluster point in *2D*
+and *3D* space, but also for *image compression*
+
+## Exercise 8 - Week 9
+**Anomaly Detection** by using *gaussian distributions* and a **Recommender System** which predicts
+movie ratings
